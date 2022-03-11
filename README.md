@@ -23,3 +23,14 @@ This project provides a minimal starter project structure for your next awesome 
 
 
 
+# Installation
+
+Installation for dependencies using 
+yarn
+
+then after that run the application  
+yart start  OR  expo start
+
+
+
+
